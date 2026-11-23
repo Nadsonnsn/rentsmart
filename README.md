@@ -76,4 +76,4 @@ rentsmart/
 
 ## Autor
 
-<seu nome> — <seu RA / curso>
+<Nadson de Sousa> — <RA 249116/ ANALSIE E DESENVOLVIMENTO DE SISTEMAS - ADS2NB>
