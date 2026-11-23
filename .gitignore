@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+projecao_12_meses_*.csv
+!exemplo_projecao_12_meses_*.csv
